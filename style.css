@@ -1,0 +1,21 @@
+*{
+    padding: 0px;
+    margin:0px;
+
+}
+
+body{
+    background: url(imagens/fundo-madeira.jpg) center center / cover no-repeat fixed;
+    height: 100vh;
+}
+
+header{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.telefone{
+    
+}
