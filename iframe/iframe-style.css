@@ -1,0 +1,28 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+img{
+    width: 100%;
+    display: block;
+}
+
+a{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: darkred;
+    color: white;
+    height: 70px;
+    font: 200 1.5em 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-decoration: none;
+}
+
+a:hover{
+    background-color: red;
+}
+
+body::-webkit-scrollbar{
+    display: none;
+}
